@@ -308,6 +308,14 @@ public class MainActivity extends AppCompatActivity {
     }
     
     public void  test(){
-        // TODO: 2017/8/27  
+        // TODO: 2017/8/27
+    }
+
+    public void hello(){
+
+    }
+
+    public void h(){
+
     }
 }
